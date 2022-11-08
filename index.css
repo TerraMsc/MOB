@@ -177,7 +177,7 @@ body {
     color: white;
     font-size: 26px;
     padding-left: 26px;
-    height: 20px;
+    height: 26px;
     line-height: 20px;
 }
 
@@ -207,7 +207,7 @@ body {
     font-family: 'font';
     width: 277px;
     height: 36px;
-    border: 2px solid white;
+    border: 2px solid white;    
     color: white;
     font-size: 26px;
     line-height: 36px;
@@ -224,12 +224,12 @@ body {
     background-color: #bf0407;
     color: white;
     font-family: 'font';
-    height: 24px;
-    line-height: 24px;
+    height: 30px;
+    line-height: 90%;
     font-size: 26px;
     outline: none;
     border: none;
-    margin-top: -3px;
+    margin-top: -20px;
 }
 
 #line-no-input::placeholder { 
